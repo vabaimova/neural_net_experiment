@@ -1,4 +1,4 @@
-# neural_net_experiment
+# Neural Net Experiment
 Experimenting with implementing and training a neural net.
 
 ## Implementation
