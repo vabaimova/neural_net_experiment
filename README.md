@@ -2,6 +2,7 @@
 Experimenting with implementing and training a neural net.
 
 ## Implementation
+* [OpenCV: Open Computer Vision](https://opencv.org/)
 * [scikit learn: neural network models](http://scikit-learn.org/dev/modules/neural_networks_supervised.html)
 * [scikit learn: pipeline (use this!)](http://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html)
 
